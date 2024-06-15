@@ -1,0 +1,1 @@
+CREATE TABLE users( user_id BIGINT,user_name VARCHAR(100),password VARCHAR(100),date TIMESTAMP);
